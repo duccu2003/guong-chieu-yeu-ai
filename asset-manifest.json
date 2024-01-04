@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/guong-chieu-yeu-ai/static/css/main.1f81428d.css",
-    "main.js": "/guong-chieu-yeu-ai/static/js/main.76d0e685.js",
+    "main.js": "/guong-chieu-yeu-ai/static/js/main.7a6c5618.js",
     "static/js/787.9864eaf1.chunk.js": "/guong-chieu-yeu-ai/static/js/787.9864eaf1.chunk.js",
     "static/media/victoria.ttf": "/guong-chieu-yeu-ai/static/media/victoria.184e06d96abcedc1bb2c.ttf",
     "index.html": "/guong-chieu-yeu-ai/index.html",
     "main.1f81428d.css.map": "/guong-chieu-yeu-ai/static/css/main.1f81428d.css.map",
-    "main.76d0e685.js.map": "/guong-chieu-yeu-ai/static/js/main.76d0e685.js.map",
+    "main.7a6c5618.js.map": "/guong-chieu-yeu-ai/static/js/main.7a6c5618.js.map",
     "787.9864eaf1.chunk.js.map": "/guong-chieu-yeu-ai/static/js/787.9864eaf1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f81428d.css",
-    "static/js/main.76d0e685.js"
+    "static/js/main.7a6c5618.js"
   ]
 }
